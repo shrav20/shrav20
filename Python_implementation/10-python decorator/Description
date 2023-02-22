@@ -1,0 +1,1 @@
+Decorators can be thought of as functions which modify the functionality of another function. They help to make your code shorter and more "Pythonic".
